@@ -7,7 +7,7 @@ from database import database
 from keyboard import online, inline
 from aiogram.methods import SendPhoto
 
-token = ""
+token = "7406884994:AAGA6uA_9EQanpFHXAPLWm3nN6hjYGKvAi4"
 
 bot = Bot(token)
 dp = Dispatcher()
